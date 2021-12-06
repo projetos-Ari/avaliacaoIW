@@ -1,0 +1,46 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-image: url(../img/verdefundo.jpg);
+    background-repeat: round;
+}
+
+#sobre {
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: black;
+}
+
+.icone {
+    width: 30%;
+    margin-left: 35%;
+}
+
+.alinhado{
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: black;
+}
+
+.galeria{
+    width: 90%;
+    margin-left: 5%;
+}
+
+footer {
+    background-color: #198754;
+    padding: 1%;
+    font-family: 'Odibee Sans', cursive;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 1.5em;
+    line-height: 1.5;
+}
